@@ -1,0 +1,53 @@
+body{
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+ background: url(https://cdnn21.img.ria.ru/images/150222/19/1502221932_0:145:2737:1685_1920x0_80_0_0_cf430e386c26d4454bf3f3d2e80e5856.jpg) no-repeat fixed;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+    }
+div {
+    border: 1px solid black;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+h1, h2{
+text-indent: 2%; } 
+
+
+
+p {
+    margin: 5px 20px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+
+table,
+th,
+tr,
+td {
+    margin: 5px 20px;
+    border: 1px solid black;
+}
+
+ figure {
+    width: 200px;
+    float: right;
+}
+
+figure>img {
+    width: 100%
+}
+
+figcaption {
+    font-style: italic;
+    font-weight: 400;
+}
+
